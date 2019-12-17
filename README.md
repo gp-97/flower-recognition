@@ -8,4 +8,4 @@ Applying Deep-learning to classify flower types.
     tulip,
  The dataset has been obtained from Kaggle.
  The present model delivers about 68 % accuracy on a test dataset derived from the original dataset.
- For people wanting to try out the model, a separate 'FlowerClassification-66.24.h5' file has been provided which consists of trained model.
+ For people wanting to try out the model, a separate 'FlowerClassification-73.30.h5' file has been provided which consists of trained model.
